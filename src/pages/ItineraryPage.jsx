@@ -1379,7 +1379,6 @@ export default function ItineraryPage({ appSettings, onOpenSettings, onBack }) {
           // 🟢 綁定新的函式，它會接收到 GameMap 傳來的 id
           onMarkerClick={handleMarkerClick}
         />
-        />
       </div>
 
       <div className="absolute top-4 right-4 z-50">
